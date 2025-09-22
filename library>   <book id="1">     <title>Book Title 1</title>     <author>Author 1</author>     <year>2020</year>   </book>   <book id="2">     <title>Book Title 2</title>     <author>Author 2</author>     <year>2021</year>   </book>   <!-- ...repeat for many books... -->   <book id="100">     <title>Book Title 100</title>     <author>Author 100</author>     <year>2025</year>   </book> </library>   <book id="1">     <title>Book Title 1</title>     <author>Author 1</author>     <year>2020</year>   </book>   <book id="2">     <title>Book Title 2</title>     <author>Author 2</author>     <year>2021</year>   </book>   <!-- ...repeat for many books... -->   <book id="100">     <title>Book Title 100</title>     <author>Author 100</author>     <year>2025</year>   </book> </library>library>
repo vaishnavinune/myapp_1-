@@ -1,0 +1,18 @@
+library>
+  <book id="1">
+    <title>Book Title 1</title>
+    <author>Author 1</author>
+    <year>2020</year>
+  </book>
+  <book id="2">
+    <title>Book Title 2</title>
+    <author>Author 2</author>
+    <year>2021</year>
+  </book>
+  <!-- ...repeat for many books... -->
+  <book id="100">
+    <title>Book Title 100</title>
+    <author>Author 100</author>
+    <year>2025</year>
+  </book>
+</library>
